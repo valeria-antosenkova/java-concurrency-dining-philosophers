@@ -1,5 +1,3 @@
-# java-concurrency-dining-philosophers
-
 # Concurrent Resource Allocation Simulation
 
 A Java-based simulation of concurrent resource allocation modeled after the classic Dining Philosophers problem.  
