@@ -1,0 +1,1186 @@
+PS C:\Users\antos\IdeaProjects\untitled\a3\src> java DiningPhilosophers 3    
+
+
+3 philosopher(s) came in for a dinner.
+Philosopher 1 is hungry
+Philosopher 1 picks up left chopstick
+Philosopher 1 picks up right chopstick
+Philosopher 3 is hungry
+Chopsticks taken, philosopher 3 needs to wait
+The philosopher 1 has started eating.
+Philosopher 2 is hungry
+Chopsticks taken, philosopher 2 needs to wait
+The philosopher 1 is done eating.
+Philosopher 1 puts down right chopstick
+Philosopher 1 puts down left chopstick
+The philosopher 3 has started eating.
+The philosopher 2 has started eating.
+The philosopher 1 has started thinking.
+The philosopher 2 is done eating.
+Philosopher 2 puts down right chopstick
+Philosopher 2 puts down left chopstick
+The philosopher 2 has started thinking.
+The philosopher 3 is done eating.
+Philosopher 3 puts down right chopstick
+Philosopher 3 puts down left chopstick
+The philosopher 3 has started thinking.
+The philosopher 1 is done thinking.
+Philosopher 1 is hungry
+Philosopher 1 picks up left chopstick
+Philosopher 1 picks up right chopstick
+The philosopher 1 has started eating.
+The philosopher 1 is done eating.
+Philosopher 1 puts down right chopstick
+Philosopher 1 puts down left chopstick
+The philosopher 1 has started thinking.
+The philosopher 3 is done thinking.
+Philosopher 3 is hungry
+Philosopher 3 picks up left chopstick
+Philosopher 3 picks up right chopstick
+The philosopher 3 has started eating.
+The philosopher 2 is done thinking.
+Philosopher 2 is hungry
+Chopsticks taken, philosopher 2 needs to wait
+The philosopher 3 is done eating.
+Philosopher 3 puts down right chopstick
+Philosopher 3 puts down left chopstick
+The philosopher 2 has started eating.
+The philosopher 3 has started thinking.
+The philosopher 3 is done thinking.
+The philosopher 3 has started talking.
+Philosopher 3 says: 2 + 2 = 5 for extremely large values of 2...
+The philosopher 3 is done talking.
+Philosopher 3 is hungry
+Chopsticks taken, philosopher 3 needs to wait
+The philosopher 2 is done eating.
+Philosopher 2 puts down right chopstick
+Philosopher 2 puts down left chopstick
+The philosopher 2 has started thinking.
+The philosopher 3 has started eating.
+The philosopher 1 is done thinking.
+Philosopher 1 is hungry
+Chopsticks taken, philosopher 1 needs to wait
+The philosopher 3 is done eating.
+Philosopher 3 puts down right chopstick
+Philosopher 3 puts down left chopstick
+The philosopher 1 has started eating.
+The philosopher 3 has started thinking.
+The philosopher 2 is done thinking.
+The philosopher 2 has started talking.
+Philosopher 2 says: You know, true is false and false is true if you think of it
+The philosopher 2 is done talking.
+Philosopher 2 is hungry
+Chopsticks taken, philosopher 2 needs to wait
+The philosopher 3 is done thinking.
+Philosopher 3 is hungry
+Chopsticks taken, philosopher 3 needs to wait
+The philosopher 1 is done eating.
+Philosopher 1 puts down right chopstick
+Philosopher 1 puts down left chopstick
+The philosopher 2 has started eating.
+The philosopher 3 has started eating.
+The philosopher 1 has started thinking.
+The philosopher 2 is done eating.
+Philosopher 2 puts down right chopstick
+Philosopher 2 puts down left chopstick
+The philosopher 2 has started thinking.
+The philosopher 3 is done eating.
+Philosopher 3 puts down right chopstick
+Philosopher 3 puts down left chopstick
+The philosopher 3 has started thinking.
+The philosopher 2 is done thinking.
+Philosopher 2 is hungry
+Philosopher 2 picks up left chopstick
+Philosopher 2 picks up right chopstick
+The philosopher 2 has started eating.
+The philosopher 1 is done thinking.
+Philosopher 1 is hungry
+Chopsticks taken, philosopher 1 needs to wait
+The philosopher 3 is done thinking.
+Philosopher 3 is hungry
+Chopsticks taken, philosopher 3 needs to wait
+The philosopher 2 is done eating.
+Philosopher 2 puts down right chopstick
+Philosopher 2 puts down left chopstick
+The philosopher 1 has started eating.
+The philosopher 3 has started eating.
+The philosopher 2 has started thinking.
+The philosopher 1 is done eating.
+Philosopher 1 puts down right chopstick
+Philosopher 1 puts down left chopstick
+The philosopher 3 is done eating.
+The philosopher 1 has started thinking.
+The philosopher 2 is done thinking.
+The philosopher 2 has started talking.
+Philosopher 3 puts down right chopstick
+Philosopher 2 says: You know, true is false and false is true if you think of it
+Philosopher 3 puts down left chopstick
+The philosopher 3 has started thinking.
+The philosopher 2 is done talking.
+Philosopher 2 is hungry
+Philosopher 2 picks up left chopstick
+Philosopher 2 picks up right chopstick
+The philosopher 2 has started eating.
+The philosopher 2 is done eating.
+Philosopher 2 puts down right chopstick
+Philosopher 2 puts down left chopstick
+The philosopher 2 has started thinking.
+The philosopher 2 is done thinking.
+Philosopher 2 is hungry
+Philosopher 2 picks up left chopstick
+Philosopher 2 picks up right chopstick
+The philosopher 2 has started eating.
+The philosopher 2 is done eating.
+Philosopher 2 puts down right chopstick
+Philosopher 2 puts down left chopstick
+The philosopher 2 has started thinking.
+The philosopher 3 is done thinking.
+Philosopher 3 is hungry
+Philosopher 3 picks up left chopstick
+Philosopher 3 picks up right chopstick
+The philosopher 3 has started eating.
+The philosopher 1 is done thinking.
+Philosopher 1 is hungry
+Chopsticks taken, philosopher 1 needs to wait
+The philosopher 2 is done thinking.
+The philosopher 2 has started talking.
+Philosopher 2 says: If thee cannot speak, thee must be silent
+The philosopher 2 is done talking.
+Philosopher 2 is hungry
+Chopsticks taken, philosopher 2 needs to wait
+The philosopher 3 is done eating.
+Philosopher 3 puts down right chopstick
+Philosopher 3 puts down left chopstick
+The philosopher 1 has started eating.
+The philosopher 2 has started eating.
+The philosopher 3 has started thinking.
+The philosopher 3 is done thinking.
+The philosopher 3 has started talking.
+Philosopher 3 says: The meaning of life is...
+The philosopher 3 is done talking.
+Philosopher 3 is hungry
+Chopsticks taken, philosopher 3 needs to wait
+The philosopher 2 is done eating.
+Philosopher 2 puts down right chopstick
+Philosopher 2 puts down left chopstick
+The philosopher 3 has started eating.
+The philosopher 2 has started thinking.
+The philosopher 1 is done eating.
+Philosopher 1 puts down right chopstick
+Philosopher 1 puts down left chopstick
+The philosopher 1 has started thinking.
+The philosopher 2 is done thinking.
+Philosopher 2 is hungry
+Chopsticks taken, philosopher 2 needs to wait
+The philosopher 3 is done eating.
+Philosopher 3 puts down right chopstick
+Philosopher 3 puts down left chopstick
+The philosopher 2 has started eating.
+The philosopher 3 has started thinking.
+The philosopher 1 is done thinking.
+Philosopher 1 is hungry
+Chopsticks taken, philosopher 1 needs to wait
+The philosopher 3 is done thinking.
+Philosopher 3 is hungry
+Chopsticks taken, philosopher 3 needs to wait
+The philosopher 2 is done eating.
+Philosopher 2 puts down right chopstick
+Philosopher 2 puts down left chopstick
+The philosopher 1 has started eating.
+The philosopher 3 has started eating.
+The philosopher 2 has started thinking.
+The philosopher 2 is done thinking.
+The philosopher 2 has started talking.
+Philosopher 2 says: You know, true is false and false is true if you think of it
+The philosopher 2 is done talking.
+Philosopher 2 is hungry
+Chopsticks taken, philosopher 2 needs to wait
+The philosopher 1 is done eating.
+Philosopher 1 puts down right chopstick
+Philosopher 1 puts down left chopstick
+The philosopher 2 has started eating.
+The philosopher 1 has started thinking.
+The philosopher 3 is done eating.
+Philosopher 3 puts down right chopstick
+Philosopher 3 puts down left chopstick
+The philosopher 3 has started thinking.
+The philosopher 1 is done thinking.
+Philosopher 1 is hungry
+Chopsticks taken, philosopher 1 needs to wait
+The philosopher 3 is done thinking.
+The philosopher 3 has started talking.
+Philosopher 3 says: Eh, it's not easy to be a philosopher: eat, think, talk, eat...
+The philosopher 3 is done talking.
+Philosopher 3 is hungry
+Chopsticks taken, philosopher 3 needs to wait
+The philosopher 2 is done eating.
+Philosopher 2 puts down right chopstick
+Philosopher 2 puts down left chopstick
+The philosopher 1 has started eating.
+The philosopher 3 has started eating.
+The philosopher 2 has started thinking.
+The philosopher 2 is done thinking.
+Philosopher 2 is hungry
+Chopsticks taken, philosopher 2 needs to wait
+The philosopher 3 is done eating.
+Philosopher 3 puts down right chopstick
+Philosopher 3 puts down left chopstick
+The philosopher 2 has started eating.
+The philosopher 3 has started thinking.
+The philosopher 1 is done eating.
+Philosopher 1 puts down right chopstick
+Philosopher 1 puts down left chopstick
+The philosopher 1 has started thinking.
+The philosopher 3 is done thinking.
+The philosopher 3 has started talking.
+Philosopher 3 says: Eh, it's not easy to be a philosopher: eat, think, talk, eat...
+The philosopher 3 is done talking.
+Philosopher 3 is hungry
+Chopsticks taken, philosopher 3 needs to wait
+The philosopher 2 is done eating.
+Philosopher 2 puts down right chopstick
+Philosopher 2 puts down left chopstick
+The philosopher 3 has started eating.
+The philosopher 2 has started thinking.
+The philosopher 2 is done thinking.
+The philosopher 1 is done thinking.
+Philosopher 1 is hungry
+Chopsticks taken, philosopher 1 needs to wait
+The philosopher 3 is done eating.
+Philosopher 3 puts down right chopstick
+Philosopher 3 puts down left chopstick
+The philosopher 1 has started thinking.
+The philosopher 1 is done thinking.
+Philosopher 1 is hungry
+Philosopher 1 picks up left chopstick
+Philosopher 1 picks up right chopstick
+The philosopher 1 has started eating.
+The philosopher 1 is done eating.
+Philosopher 1 puts down right chopstick
+Philosopher 1 puts down left chopstick
+The philosopher 1 has started thinking.
+The philosopher 1 is done thinking.
+All philosophers have left. System terminates normally.
+
+
+
+
+
+--------------------------OUTPUT FOR 4 DINING PHILOSOPHERS--------------------------------
+
+
+
+
+
+4 philosopher(s) came in for a dinner.
+Philosopher 1 is hungry
+Philosopher 1 picks up left chopstick
+Philosopher 1 picks up right chopstick
+The philosopher 1 has started eating.
+Philosopher 4 is hungry
+Chopsticks taken, philosopher 4 needs to wait
+Philosopher 3 is hungry
+Philosopher 3 picks up left chopstick
+Philosopher 3 picks up right chopstick
+The philosopher 3 has started eating.
+Philosopher 2 is hungry
+Chopsticks taken, philosopher 2 needs to wait
+The philosopher 1 is done eating.
+Philosopher 1 puts down right chopstick
+Philosopher 1 puts down left chopstick
+The philosopher 2 has started eating.
+The philosopher 4 has started eating.
+The philosopher 1 has started thinking.
+The philosopher 1 is done thinking.
+Philosopher 1 is hungry
+Chopsticks taken, philosopher 1 needs to wait
+The philosopher 3 is done eating.
+Philosopher 3 puts down right chopstick
+Philosopher 3 puts down left chopstick
+The philosopher 3 has started thinking.
+The philosopher 1 has started eating.
+The philosopher 4 is done eating.
+Philosopher 4 puts down right chopstick
+Philosopher 4 puts down left chopstick
+The philosopher 4 has started thinking.
+The philosopher 2 is done eating.
+Philosopher 2 puts down right chopstick
+Philosopher 2 puts down left chopstick
+The philosopher 2 has started thinking.
+The philosopher 2 is done thinking.
+Philosopher 2 is hungry
+Chopsticks taken, philosopher 2 needs to wait
+The philosopher 1 is done eating.
+Philosopher 1 puts down right chopstick
+Philosopher 1 puts down left chopstick
+The philosopher 2 has started eating.
+The philosopher 1 has started thinking.
+The philosopher 1 is done thinking.
+The philosopher 1 has started talking.
+Philosopher 1 says: The meaning of life is...
+The philosopher 1 is done talking.
+Philosopher 1 is hungry
+Chopsticks taken, philosopher 1 needs to wait
+The philosopher 2 is done eating.
+Philosopher 2 puts down right chopstick
+Philosopher 2 puts down left chopstick
+The philosopher 1 has started eating.
+The philosopher 2 has started thinking.
+The philosopher 1 is done eating.
+Philosopher 1 puts down right chopstick
+Philosopher 1 puts down left chopstick
+The philosopher 1 has started thinking.
+The philosopher 3 is done thinking.
+Philosopher 3 is hungry
+Philosopher 3 picks up left chopstick
+Philosopher 3 picks up right chopstick
+The philosopher 3 has started eating.
+The philosopher 1 is done thinking.
+Philosopher 1 is hungry
+Philosopher 1 picks up left chopstick
+Philosopher 1 picks up right chopstick
+The philosopher 1 has started eating.
+The philosopher 1 is done eating.
+Philosopher 1 puts down right chopstick
+Philosopher 1 puts down left chopstick
+The philosopher 1 has started thinking.
+The philosopher 4 is done thinking.
+Philosopher 4 is hungry
+Chopsticks taken, philosopher 4 needs to wait
+The philosopher 2 is done thinking.
+Philosopher 2 is hungry
+Chopsticks taken, philosopher 2 needs to wait
+The philosopher 1 is done thinking.
+The philosopher 1 has started talking.
+Philosopher 1 says: The meaning of life is...
+The philosopher 1 is done talking.
+Philosopher 1 is hungry
+Philosopher 1 picks up left chopstick
+Philosopher 1 picks up right chopstick
+The philosopher 1 has started eating.
+The philosopher 1 is done eating.
+Philosopher 1 puts down right chopstick
+Philosopher 1 puts down left chopstick
+The philosopher 4 has started eating.
+The philosopher 2 has started eating.
+The philosopher 1 has started thinking.
+The philosopher 2 is done eating.
+Philosopher 2 puts down right chopstick
+Philosopher 2 puts down left chopstick
+The philosopher 2 has started thinking.
+The philosopher 3 is done eating.
+Philosopher 3 puts down right chopstick
+Philosopher 3 puts down left chopstick
+The philosopher 3 has started thinking.
+The philosopher 1 is done thinking.
+Philosopher 1 is hungry
+Chopsticks taken, philosopher 1 needs to wait
+The philosopher 4 is done eating.
+Philosopher 4 puts down right chopstick
+Philosopher 4 puts down left chopstick
+The philosopher 4 has started thinking.
+The philosopher 1 has started eating.
+The philosopher 2 is done thinking.
+Philosopher 2 is hungry
+Chopsticks taken, philosopher 2 needs to wait
+The philosopher 1 is done eating.
+Philosopher 1 puts down right chopstick
+Philosopher 1 puts down left chopstick
+The philosopher 2 has started eating.
+The philosopher 1 has started thinking.
+The philosopher 3 is done thinking.
+Philosopher 3 is hungry
+Chopsticks taken, philosopher 3 needs to wait
+The philosopher 4 is done thinking.
+The philosopher 4 has started talking.
+Philosopher 4 says: The meaning of life is...
+The philosopher 4 is done talking.
+Philosopher 4 is hungry
+Philosopher 4 picks up left chopstick
+Philosopher 4 picks up right chopstick
+The philosopher 4 has started eating.
+The philosopher 4 is done eating.
+Philosopher 4 puts down right chopstick
+Philosopher 4 puts down left chopstick
+The philosopher 3 has started eating.
+The philosopher 4 has started thinking.
+The philosopher 2 is done eating.
+Philosopher 2 puts down right chopstick
+Philosopher 2 puts down left chopstick
+The philosopher 2 has started thinking.
+The philosopher 1 is done thinking.
+The philosopher 1 has started talking.
+Philosopher 1 says: You know, true is false and false is true if you think of it
+The philosopher 1 is done talking.
+Philosopher 1 is hungry
+Philosopher 1 picks up left chopstick
+Philosopher 1 picks up right chopstick
+The philosopher 1 has started eating.
+The philosopher 4 is done thinking.
+The philosopher 4 has started talking.
+Philosopher 4 says: The meaning of life is...
+The philosopher 4 is done talking.
+Philosopher 4 is hungry
+Chopsticks taken, philosopher 4 needs to wait
+The philosopher 2 is done thinking.
+The philosopher 2 has started talking.
+Philosopher 2 says: You know, true is false and false is true if you think of it
+The philosopher 2 is done talking.
+Philosopher 2 is hungry
+Chopsticks taken, philosopher 2 needs to wait
+The philosopher 3 is done eating.
+Philosopher 3 puts down right chopstick
+Philosopher 3 puts down left chopstick
+The philosopher 3 has started thinking.
+The philosopher 4 has started eating.
+The philosopher 2 has started eating.
+The philosopher 1 is done eating.
+Philosopher 1 puts down right chopstick
+Philosopher 1 puts down left chopstick
+The philosopher 1 has started thinking.
+The philosopher 4 is done eating.
+Philosopher 4 puts down right chopstick
+Philosopher 4 puts down left chopstick
+The philosopher 4 has started thinking.
+The philosopher 3 is done thinking.
+Philosopher 3 is hungry
+Chopsticks taken, philosopher 3 needs to wait
+The philosopher 4 is done thinking.
+The philosopher 4 has started talking.
+Philosopher 4 says: The meaning of life is...
+The philosopher 4 is done talking.
+Philosopher 4 is hungry
+Philosopher 4 picks up left chopstick
+Philosopher 4 picks up right chopstick
+The philosopher 4 has started eating.
+The philosopher 2 is done eating.
+The philosopher 1 is done thinking.
+Philosopher 2 puts down right chopstick
+Philosopher 2 puts down left chopstick
+The philosopher 2 has started thinking.
+The philosopher 3 has started eating.
+Philosopher 1 is hungry
+Chopsticks taken, philosopher 1 needs to wait
+The philosopher 4 is done eating.
+Philosopher 4 puts down right chopstick
+Philosopher 4 puts down left chopstick
+The philosopher 1 has started eating.
+The philosopher 4 has started thinking.
+The philosopher 2 is done thinking.
+Philosopher 2 is hungry
+Chopsticks taken, philosopher 2 needs to wait
+The philosopher 4 is done thinking.
+The philosopher 4 has started talking.
+Philosopher 4 says: The meaning of life is...
+The philosopher 4 is done talking.
+Philosopher 4 is hungry
+Chopsticks taken, philosopher 4 needs to wait
+The philosopher 3 is done eating.
+Philosopher 3 puts down right chopstick
+Philosopher 3 puts down left chopstick
+The philosopher 2 has started eating.
+The philosopher 4 has started eating.
+The philosopher 3 has started thinking.
+The philosopher 1 is done eating.
+Philosopher 1 puts down right chopstick
+Philosopher 1 puts down left chopstick
+The philosopher 1 has started thinking.
+The philosopher 3 is done thinking.
+The philosopher 3 has started talking.
+Philosopher 3 says: If thee cannot speak, thee must be silent
+The philosopher 3 is done talking.
+Philosopher 3 is hungry
+Chopsticks taken, philosopher 3 needs to wait
+The philosopher 2 is done eating.
+Philosopher 2 puts down right chopstick
+Philosopher 2 puts down left chopstick
+The philosopher 3 has started eating.
+The philosopher 2 has started thinking.
+The philosopher 4 is done eating.
+Philosopher 4 puts down right chopstick
+Philosopher 4 puts down left chopstick
+The philosopher 4 has started thinking.
+The philosopher 4 is done thinking.
+The philosopher 4 has started talking.
+Philosopher 4 says: The meaning of life is...
+The philosopher 4 is done talking.
+Philosopher 4 is hungry
+Chopsticks taken, philosopher 4 needs to wait
+The philosopher 3 is done eating.
+Philosopher 3 puts down right chopstick
+Philosopher 3 puts down left chopstick
+The philosopher 3 has started thinking.
+The philosopher 4 has started eating.
+The philosopher 2 is done thinking.
+The philosopher 2 has started talking.
+Philosopher 2 says: The meaning of life is...
+The philosopher 2 is done talking.
+Philosopher 2 is hungry
+Philosopher 2 picks up left chopstick
+Philosopher 2 picks up right chopstick
+The philosopher 2 has started eating.
+The philosopher 3 is done thinking.
+Philosopher 3 is hungry
+Chopsticks taken, philosopher 3 needs to wait
+The philosopher 1 is done thinking.
+The philosopher 1 has started talking.
+Philosopher 1 says: If thee cannot speak, thee must be silent
+The philosopher 1 is done talking.
+Philosopher 1 is hungry
+Chopsticks taken, philosopher 1 needs to wait
+The philosopher 2 is done eating.
+Philosopher 2 puts down right chopstick
+Philosopher 2 puts down left chopstick
+The philosopher 3 has started eating.
+The philosopher 1 has started eating.
+The philosopher 2 has started thinking.
+The philosopher 4 is done eating.
+Philosopher 4 puts down right chopstick
+Philosopher 4 puts down left chopstick
+The philosopher 4 has started thinking.
+The philosopher 3 is done eating.
+Philosopher 3 puts down right chopstick
+Philosopher 3 puts down left chopstick
+The philosopher 3 has started thinking.
+The philosopher 4 is done thinking.
+Philosopher 4 is hungry
+Chopsticks taken, philosopher 4 needs to wait
+The philosopher 1 is done eating.
+Philosopher 1 puts down right chopstick
+Philosopher 1 puts down left chopstick
+The philosopher 1 has started thinking.
+The philosopher 4 has started eating.
+The philosopher 2 is done thinking.
+Philosopher 2 is hungry
+Philosopher 2 picks up left chopstick
+Philosopher 2 picks up right chopstick
+The philosopher 2 has started eating.
+The philosopher 3 is done thinking.
+The philosopher 3 has started talking.
+Philosopher 3 says: Eh, it's not easy to be a philosopher: eat, think, talk, eat...
+The philosopher 3 is done talking.
+Philosopher 3 is hungry
+Chopsticks taken, philosopher 3 needs to wait
+The philosopher 2 is done eating.
+Philosopher 2 puts down right chopstick
+Philosopher 2 puts down left chopstick
+The philosopher 2 has started thinking.
+The philosopher 3 has started eating.
+The philosopher 4 is done eating.
+Philosopher 4 puts down right chopstick
+Philosopher 4 puts down left chopstick
+The philosopher 4 has started thinking.
+The philosopher 2 is done thinking.
+The philosopher 2 has started talking.
+Philosopher 2 says: The meaning of life is...
+The philosopher 2 is done talking.
+Philosopher 2 is hungry
+Chopsticks taken, philosopher 2 needs to wait
+The philosopher 1 is done thinking.
+The philosopher 1 has started talking.
+Philosopher 1 says: You know, true is false and false is true if you think of it
+The philosopher 1 is done talking.
+Philosopher 1 is hungry
+Philosopher 1 picks up left chopstick
+Philosopher 1 picks up right chopstick
+The philosopher 1 has started eating.
+The philosopher 1 is done eating.
+Philosopher 1 puts down right chopstick
+Philosopher 1 puts down left chopstick
+The philosopher 2 has started eating.
+The philosopher 1 has started thinking.
+The philosopher 1 is done thinking.
+The philosopher 2 is done eating.
+Philosopher 2 puts down right chopstick
+Philosopher 2 puts down left chopstick
+The philosopher 2 has started thinking.
+The philosopher 2 is done thinking.
+The philosopher 2 has started talking.
+Philosopher 2 says: 2 + 2 = 5 for extremely large values of 2...
+The philosopher 2 is done talking.
+Philosopher 2 is hungry
+Chopsticks taken, philosopher 2 needs to wait
+The philosopher 4 is done thinking.
+The philosopher 4 has started talking.
+Philosopher 4 says: The meaning of life is...
+The philosopher 4 is done talking.
+Philosopher 4 is hungry
+Chopsticks taken, philosopher 4 needs to wait
+The philosopher 3 is done eating.
+Philosopher 3 puts down right chopstick
+Philosopher 3 puts down left chopstick
+The philosopher 2 has started eating.
+The philosopher 4 has started eating.
+The philosopher 3 has started thinking.
+The philosopher 2 is done eating.
+Philosopher 2 puts down right chopstick
+Philosopher 2 puts down left chopstick
+The philosopher 2 has started thinking.
+The philosopher 3 is done thinking.
+The philosopher 3 has started talking.
+Philosopher 3 says: The meaning of life is...
+The philosopher 3 is done talking.
+Philosopher 3 is hungry
+Chopsticks taken, philosopher 3 needs to wait
+The philosopher 4 is done eating.
+Philosopher 4 puts down right chopstick
+Philosopher 4 puts down left chopstick
+The philosopher 3 has started eating.
+The philosopher 4 has started thinking.
+The philosopher 3 is done eating.
+Philosopher 3 puts down right chopstick
+Philosopher 3 puts down left chopstick
+The philosopher 3 has started thinking.
+The philosopher 2 is done thinking.
+The philosopher 2 has started talking.
+Philosopher 2 says: You know, true is false and false is true if you think of it
+The philosopher 2 is done talking.
+The philosopher 3 is done thinking.
+Philosopher 3 is hungry
+Philosopher 3 picks up left chopstick
+Philosopher 3 picks up right chopstick
+The philosopher 3 has started eating.
+The philosopher 4 is done thinking.
+The philosopher 4 has started talking.
+Philosopher 4 says: 2 + 2 = 5 for extremely large values of 2...
+The philosopher 4 is done talking.
+Philosopher 4 is hungry
+Chopsticks taken, philosopher 4 needs to wait
+The philosopher 3 is done eating.
+Philosopher 3 puts down right chopstick
+Philosopher 3 puts down left chopstick
+The philosopher 4 has started eating.
+The philosopher 3 has started thinking.
+The philosopher 4 is done eating.
+Philosopher 4 puts down right chopstick
+Philosopher 4 puts down left chopstick
+The philosopher 4 has started thinking.
+The philosopher 3 is done thinking.
+The philosopher 3 has started talking.
+Philosopher 3 says: If thee cannot speak, thee must be silent
+The philosopher 3 is done talking.
+Philosopher 3 is hungry
+Philosopher 3 picks up left chopstick
+Philosopher 3 picks up right chopstick
+The philosopher 3 has started eating.
+The philosopher 3 is done eating.
+Philosopher 3 puts down right chopstick
+Philosopher 3 puts down left chopstick
+The philosopher 3 has started thinking.
+The philosopher 4 is done thinking.
+The philosopher 4 has started talking.
+Philosopher 4 says: If thee cannot speak, thee must be silent
+The philosopher 4 is done talking.
+The philosopher 3 is done thinking.
+All philosophers have left. System terminates normally.
+
+
+
+
+
+--------------------------OUTPUT FOR 5 DINING PHILOSOPHERS--------------------------------
+
+
+
+
+
+5 philosopher(s) came in for a dinner.
+Philosopher 1 is hungry
+Philosopher 1 picks up left chopstick
+Philosopher 1 picks up right chopstick
+Philosopher 5 is hungry
+Chopsticks taken, philosopher 5 needs to wait
+The philosopher 1 has started eating.
+Philosopher 4 is hungry
+Philosopher 4 picks up left chopstick
+Philosopher 4 picks up right chopstick
+The philosopher 4 has started eating.
+Philosopher 3 is hungry
+Chopsticks taken, philosopher 3 needs to wait
+Philosopher 2 is hungry
+Chopsticks taken, philosopher 2 needs to wait
+The philosopher 4 is done eating.
+Philosopher 4 puts down right chopstick
+Philosopher 4 puts down left chopstick
+The philosopher 5 has started eating.
+The philosopher 2 has started eating.
+The philosopher 3 has started eating.
+The philosopher 4 has started thinking.
+The philosopher 2 is done eating.
+Philosopher 2 puts down right chopstick
+Philosopher 2 puts down left chopstick
+The philosopher 2 has started thinking.
+The philosopher 2 is done thinking.
+The philosopher 2 has started talking.
+Philosopher 2 says: My number is 2
+The philosopher 2 is done talking.
+Philosopher 2 is hungry
+Chopsticks taken, philosopher 2 needs to wait
+The philosopher 1 is done eating.
+Philosopher 1 puts down right chopstick
+Philosopher 1 puts down left chopstick
+The philosopher 1 has started thinking.
+The philosopher 2 has started eating.
+The philosopher 1 is done thinking.
+The philosopher 1 has started talking.
+Philosopher 1 says: 2 + 2 = 5 for extremely large values of 2...
+The philosopher 1 is done talking.
+Philosopher 1 is hungry
+Chopsticks taken, philosopher 1 needs to wait
+The philosopher 5 is done eating.
+Philosopher 5 puts down right chopstick
+Philosopher 5 puts down left chopstick
+The philosopher 5 has started thinking.
+The philosopher 3 is done eating.
+The philosopher 1 has started eating.
+Philosopher 3 puts down right chopstick
+Philosopher 3 puts down left chopstick
+The philosopher 3 has started thinking.
+The philosopher 2 is done eating.
+Philosopher 2 puts down right chopstick
+Philosopher 2 puts down left chopstick
+The philosopher 2 has started thinking.
+The philosopher 3 is done thinking.
+The philosopher 3 has started talking.
+Philosopher 3 says: Eh, it's not easy to be a philosopher: eat, think, talk, eat...
+The philosopher 3 is done talking.
+Philosopher 3 is hungry
+Philosopher 3 picks up left chopstick
+Philosopher 3 picks up right chopstick
+The philosopher 3 has started eating.
+The philosopher 4 is done thinking.
+The philosopher 4 has started talking.
+Philosopher 4 says: You know, true is false and false is true if you think of it
+The philosopher 4 is done talking.
+Philosopher 4 is hungry
+Chopsticks taken, philosopher 4 needs to wait
+The philosopher 5 is done thinking.
+Philosopher 5 is hungry
+Chopsticks taken, philosopher 5 needs to wait
+The philosopher 3 is done eating.
+Philosopher 3 puts down right chopstick
+Philosopher 3 puts down left chopstick
+The philosopher 4 has started eating.
+The philosopher 5 has started eating.
+The philosopher 3 has started thinking.
+The philosopher 5 is done eating.
+Philosopher 5 puts down right chopstick
+Philosopher 5 puts down left chopstick
+The philosopher 5 has started thinking.
+The philosopher 2 is done thinking.
+The philosopher 2 has started talking.
+Philosopher 2 says: If thee cannot speak, thee must be silent
+The philosopher 2 is done talking.
+Philosopher 2 is hungry
+Chopsticks taken, philosopher 2 needs to wait
+The philosopher 1 is done eating.
+Philosopher 1 puts down right chopstick
+Philosopher 1 puts down left chopstick
+The philosopher 2 has started eating.
+The philosopher 1 has started thinking.
+The philosopher 1 is done thinking.
+Philosopher 1 is hungry
+Chopsticks taken, philosopher 1 needs to wait
+The philosopher 4 is done eating.
+Philosopher 4 puts down right chopstick
+Philosopher 4 puts down left chopstick
+The philosopher 4 has started thinking.
+The philosopher 1 has started eating.
+The philosopher 3 is done thinking.
+Philosopher 3 is hungry
+Chopsticks taken, philosopher 3 needs to wait
+The philosopher 5 is done thinking.
+Philosopher 5 is hungry
+Chopsticks taken, philosopher 5 needs to wait
+The philosopher 2 is done eating.
+Philosopher 2 puts down right chopstick
+Philosopher 2 puts down left chopstick
+The philosopher 2 has started thinking.
+The philosopher 3 has started eating.
+The philosopher 5 has started eating.
+The philosopher 5 is done eating.
+Philosopher 5 puts down right chopstick
+Philosopher 5 puts down left chopstick
+The philosopher 5 has started thinking.
+The philosopher 4 is done thinking.
+Philosopher 4 is hungry
+Chopsticks taken, philosopher 4 needs to wait
+The philosopher 3 is done eating.
+Philosopher 3 puts down right chopstick
+Philosopher 3 puts down left chopstick
+The philosopher 3 has started thinking.
+The philosopher 4 has started eating.
+The philosopher 1 is done eating.
+Philosopher 1 puts down right chopstick
+Philosopher 1 puts down left chopstick
+The philosopher 1 has started thinking.
+The philosopher 4 is done eating.
+Philosopher 4 puts down right chopstick
+The philosopher 1 is done thinking.
+Philosopher 4 puts down left chopstick
+Philosopher 1 is hungry
+Philosopher 1 picks up left chopstick
+Philosopher 1 picks up right chopstick
+The philosopher 1 has started eating.
+The philosopher 4 has started thinking.
+The philosopher 5 is done thinking.
+The philosopher 5 has started talking.
+Philosopher 5 says: The meaning of life is...
+The philosopher 5 is done talking.
+Philosopher 5 is hungry
+Chopsticks taken, philosopher 5 needs to wait
+The philosopher 2 is done thinking.
+Philosopher 2 is hungry
+Chopsticks taken, philosopher 2 needs to wait
+The philosopher 3 is done thinking.
+Philosopher 3 is hungry
+Philosopher 3 picks up left chopstick
+Philosopher 3 picks up right chopstick
+The philosopher 3 has started eating.
+The philosopher 4 is done thinking.
+The philosopher 4 has started talking.
+Philosopher 4 says: My number is 4
+The philosopher 4 is done talking.
+Philosopher 4 is hungry
+Chopsticks taken, philosopher 4 needs to wait
+The philosopher 3 is done eating.
+Philosopher 3 puts down right chopstick
+Philosopher 3 puts down left chopstick
+The philosopher 5 has started eating.
+The philosopher 4 has started eating.
+The philosopher 2 has started eating.
+The philosopher 3 has started thinking.
+The philosopher 3 is done thinking.
+Philosopher 3 is hungry
+Chopsticks taken, philosopher 3 needs to wait
+The philosopher 1 is done eating.
+Philosopher 1 puts down right chopstick
+Philosopher 1 puts down left chopstick
+The philosopher 3 has started eating.
+The philosopher 1 has started thinking.
+The philosopher 1 is done thinking.
+The philosopher 1 has started talking.
+Philosopher 1 says: You know, true is false and false is true if you think of it
+The philosopher 1 is done talking.
+Philosopher 1 is hungry
+Chopsticks taken, philosopher 1 needs to wait
+The philosopher 2 is done eating.
+Philosopher 2 puts down right chopstick
+Philosopher 2 puts down left chopstick
+The philosopher 1 has started eating.
+The philosopher 2 has started thinking.
+The philosopher 5 is done eating.
+Philosopher 5 puts down right chopstick
+Philosopher 5 puts down left chopstick
+The philosopher 5 has started thinking.
+The philosopher 3 is done eating.
+Philosopher 3 puts down right chopstick
+Philosopher 3 puts down left chopstick
+The philosopher 3 has started thinking.
+The philosopher 4 is done eating.
+Philosopher 4 puts down right chopstick
+Philosopher 4 puts down left chopstick
+The philosopher 4 has started thinking.
+The philosopher 2 is done thinking.
+Philosopher 2 is hungry
+Chopsticks taken, philosopher 2 needs to wait
+The philosopher 5 is done thinking.
+The philosopher 5 has started talking.
+Philosopher 5 says: The meaning of life is...
+The philosopher 5 is done talking.
+Philosopher 5 is hungry
+Chopsticks taken, philosopher 5 needs to wait
+The philosopher 3 is done thinking.
+The philosopher 3 has started talking.
+Philosopher 3 says: You know, true is false and false is true if you think of it
+The philosopher 3 is done talking.
+Philosopher 3 is hungry
+Philosopher 3 picks up left chopstick
+Philosopher 3 picks up right chopstick
+The philosopher 3 has started eating.
+The philosopher 1 is done eating.
+Philosopher 1 puts down right chopstick
+Philosopher 1 puts down left chopstick
+The philosopher 2 has started eating.
+The philosopher 5 has started eating.
+The philosopher 1 has started thinking.
+The philosopher 1 is done thinking.
+The philosopher 1 has started talking.
+Philosopher 1 says: If thee cannot speak, thee must be silent
+The philosopher 1 is done talking.
+Philosopher 1 is hungry
+Chopsticks taken, philosopher 1 needs to wait
+The philosopher 4 is done thinking.
+Philosopher 4 is hungry
+Chopsticks taken, philosopher 4 needs to wait
+The philosopher 3 is done eating.
+Philosopher 3 puts down right chopstick
+Philosopher 3 puts down left chopstick
+The philosopher 3 has started thinking.
+The philosopher 1 has started eating.
+The philosopher 4 has started eating.
+The philosopher 2 is done eating.
+Philosopher 2 puts down right chopstick
+Philosopher 2 puts down left chopstick
+The philosopher 2 has started thinking.
+The philosopher 5 is done eating.
+Philosopher 5 puts down right chopstick
+Philosopher 5 puts down left chopstick
+The philosopher 5 has started thinking.
+The philosopher 1 is done eating.
+Philosopher 1 puts down right chopstick
+Philosopher 1 puts down left chopstick
+The philosopher 1 has started thinking.
+The philosopher 3 is done thinking.
+The philosopher 3 has started talking.
+Philosopher 3 says: The meaning of life is...
+The philosopher 3 is done talking.
+Philosopher 3 is hungry
+Chopsticks taken, philosopher 3 needs to wait
+The philosopher 4 is done eating.
+Philosopher 4 puts down right chopstick
+Philosopher 4 puts down left chopstick
+The philosopher 4 has started thinking.
+The philosopher 3 has started eating.
+The philosopher 1 is done thinking.
+The philosopher 1 has started talking.
+Philosopher 1 says: Eh, it's not easy to be a philosopher: eat, think, talk, eat...
+The philosopher 1 is done talking.
+Philosopher 1 is hungry
+Philosopher 1 picks up left chopstick
+Philosopher 1 picks up right chopstick
+The philosopher 1 has started eating.
+The philosopher 3 is done eating.
+Philosopher 3 puts down right chopstick
+Philosopher 3 puts down left chopstick
+The philosopher 3 has started thinking.
+The philosopher 4 is done thinking.
+The philosopher 4 has started talking.
+Philosopher 4 says: If thee cannot speak, thee must be silent
+The philosopher 4 is done talking.
+Philosopher 4 is hungry
+Philosopher 4 picks up left chopstick
+Philosopher 4 picks up right chopstick
+The philosopher 4 has started eating.
+The philosopher 2 is done thinking.
+The philosopher 2 has started talking.
+Philosopher 2 says: 2 + 2 = 5 for extremely large values of 2...
+The philosopher 2 is done talking.
+Philosopher 2 is hungry
+Chopsticks taken, philosopher 2 needs to wait
+The philosopher 5 is done thinking.
+Philosopher 5 is hungry
+Chopsticks taken, philosopher 5 needs to wait
+The philosopher 1 is done eating.
+Philosopher 1 puts down right chopstick
+Philosopher 1 puts down left chopstick
+The philosopher 1 has started thinking.
+The philosopher 2 has started eating.
+The philosopher 5 has started eating.
+The philosopher 1 is done thinking.
+The philosopher 1 has started talking.
+Philosopher 1 says: The meaning of life is...
+The philosopher 1 is done talking.
+Philosopher 1 is hungry
+Chopsticks taken, philosopher 1 needs to wait
+The philosopher 4 is done eating.
+Philosopher 4 puts down right chopstick
+Philosopher 4 puts down left chopstick
+The philosopher 1 has started eating.
+The philosopher 4 has started thinking.
+The philosopher 3 is done thinking.
+Philosopher 3 is hungry
+Chopsticks taken, philosopher 3 needs to wait
+The philosopher 1 is done eating.
+Philosopher 1 puts down right chopstick
+Philosopher 1 puts down left chopstick
+The philosopher 1 has started thinking.
+The philosopher 3 has started eating.
+The philosopher 4 is done thinking.
+The philosopher 4 has started talking.
+Philosopher 4 says: You know, true is false and false is true if you think of it
+The philosopher 4 is done talking.
+Philosopher 4 is hungry
+Chopsticks taken, philosopher 4 needs to wait
+The philosopher 3 is done eating.
+Philosopher 3 puts down right chopstick
+Philosopher 3 puts down left chopstick
+The philosopher 4 has started eating.
+The philosopher 3 has started thinking.
+The philosopher 4 is done eating.
+Philosopher 4 puts down right chopstick
+Philosopher 4 puts down left chopstick
+The philosopher 4 has started thinking.
+The philosopher 2 is done eating.
+Philosopher 2 puts down right chopstick
+Philosopher 2 puts down left chopstick
+The philosopher 2 has started thinking.
+The philosopher 3 is done thinking.
+Philosopher 3 is hungry
+Philosopher 3 picks up left chopstick
+Philosopher 3 picks up right chopstick
+The philosopher 3 has started eating.
+The philosopher 5 is done eating.
+The philosopher 1 is done thinking.
+Philosopher 5 puts down right chopstick
+Philosopher 5 puts down left chopstick
+The philosopher 5 has started thinking.
+Philosopher 1 is hungry
+Philosopher 1 picks up left chopstick
+Philosopher 1 picks up right chopstick
+The philosopher 1 has started eating.
+The philosopher 2 is done thinking.
+The philosopher 2 has started talking.
+Philosopher 2 says: Eh, it's not easy to be a philosopher: eat, think, talk, eat...
+The philosopher 2 is done talking.
+Philosopher 2 is hungry
+Chopsticks taken, philosopher 2 needs to wait
+The philosopher 3 is done eating.
+Philosopher 3 puts down right chopstick
+Philosopher 3 puts down left chopstick
+The philosopher 2 has started eating.
+The philosopher 3 has started thinking.
+The philosopher 4 is done thinking.
+Philosopher 4 is hungry
+Philosopher 4 picks up left chopstick
+Philosopher 4 picks up right chopstick
+The philosopher 4 has started eating.
+The philosopher 1 is done eating.
+Philosopher 1 puts down right chopstick
+Philosopher 1 puts down left chopstick
+The philosopher 1 has started thinking.
+The philosopher 5 is done thinking.
+The philosopher 5 has started talking.
+Philosopher 5 says: 2 + 2 = 5 for extremely large values of 2...
+The philosopher 5 is done talking.
+Philosopher 5 is hungry
+Chopsticks taken, philosopher 5 needs to wait
+The philosopher 2 is done eating.
+Philosopher 2 puts down right chopstick
+Philosopher 2 puts down left chopstick
+The philosopher 5 has started eating.
+The philosopher 2 has started thinking.
+The philosopher 5 is done eating.
+Philosopher 5 puts down right chopstick
+Philosopher 5 puts down left chopstick
+The philosopher 5 has started thinking.
+The philosopher 3 is done thinking.
+The philosopher 3 has started talking.
+Philosopher 3 says: Eh, it's not easy to be a philosopher: eat, think, talk, eat...
+The philosopher 3 is done talking.
+Philosopher 3 is hungry
+Chopsticks taken, philosopher 3 needs to wait
+The philosopher 4 is done eating.
+Philosopher 4 puts down right chopstick
+Philosopher 4 puts down left chopstick
+The philosopher 4 has started thinking.
+The philosopher 3 has started eating.
+The philosopher 4 is done thinking.
+The philosopher 4 has started talking.
+Philosopher 4 says: Eh, it's not easy to be a philosopher: eat, think, talk, eat...
+The philosopher 4 is done talking.
+Philosopher 4 is hungry
+Chopsticks taken, philosopher 4 needs to wait
+The philosopher 5 is done thinking.
+Philosopher 5 is hungry
+Philosopher 5 picks up left chopstick
+Philosopher 5 picks up right chopstick
+The philosopher 5 has started eating.
+The philosopher 1 is done thinking.
+The philosopher 1 has started talking.
+Philosopher 1 says: Eh, it's not easy to be a philosopher: eat, think, talk, eat...
+The philosopher 1 is done talking.
+Philosopher 1 is hungry
+Chopsticks taken, philosopher 1 needs to wait
+The philosopher 5 is done eating.
+Philosopher 5 puts down right chopstick
+Philosopher 5 puts down left chopstick
+The philosopher 4 has started eating.
+The philosopher 1 has started eating.
+The philosopher 5 has started thinking.
+The philosopher 4 is done eating.
+Philosopher 4 puts down right chopstick
+Philosopher 4 puts down left chopstick
+The philosopher 4 has started thinking.
+The philosopher 2 is done thinking.
+The philosopher 2 has started talking.
+Philosopher 2 says: My number is 2
+The philosopher 2 is done talking.
+Philosopher 2 is hungry
+Chopsticks taken, philosopher 2 needs to wait
+The philosopher 1 is done eating.
+Philosopher 1 puts down right chopstick
+Philosopher 1 puts down left chopstick
+The philosopher 1 has started thinking.
+The philosopher 2 has started eating.
+The philosopher 3 is done eating.
+Philosopher 3 puts down right chopstick
+Philosopher 3 puts down left chopstick
+The philosopher 3 has started thinking.
+The philosopher 4 is done thinking.
+Philosopher 4 is hungry
+Philosopher 4 picks up left chopstick
+Philosopher 4 picks up right chopstick
+The philosopher 4 has started eating.
+The philosopher 1 is done thinking.
+The philosopher 2 is done eating.
+Philosopher 2 puts down right chopstick
+Philosopher 2 puts down left chopstick
+The philosopher 2 has started thinking.
+The philosopher 5 is done thinking.
+Philosopher 5 is hungry
+Chopsticks taken, philosopher 5 needs to wait
+The philosopher 3 is done thinking.
+The philosopher 4 is done eating.
+Philosopher 4 puts down right chopstick
+Philosopher 4 puts down left chopstick
+The philosopher 5 has started eating.
+The philosopher 4 has started thinking.
+The philosopher 4 is done thinking.
+The philosopher 4 has started talking.
+Philosopher 4 says: 2 + 2 = 5 for extremely large values of 2...
+The philosopher 4 is done talking.
+The philosopher 2 is done thinking.
+Philosopher 2 is hungry
+Philosopher 2 picks up left chopstick
+Philosopher 2 picks up right chopstick
+The philosopher 2 has started eating.
+The philosopher 5 is done eating.
+Philosopher 5 puts down right chopstick
+Philosopher 5 puts down left chopstick
+The philosopher 5 has started thinking.
+The philosopher 2 is done eating.
+Philosopher 2 puts down right chopstick
+Philosopher 2 puts down left chopstick
+The philosopher 2 has started thinking.
+The philosopher 5 is done thinking.
+Philosopher 5 is hungry
+Philosopher 5 picks up left chopstick
+Philosopher 5 picks up right chopstick
+The philosopher 5 has started eating.
+The philosopher 5 is done eating.
+Philosopher 5 puts down right chopstick
+Philosopher 5 puts down left chopstick
+The philosopher 5 has started thinking.
+The philosopher 5 is done thinking.
+The philosopher 5 has started talking.
+Philosopher 5 says: Eh, it's not easy to be a philosopher: eat, think, talk, eat...
+The philosopher 5 is done talking.
+The philosopher 2 is done thinking.
+The philosopher 2 has started talking.
+Philosopher 2 says: You know, true is false and false is true if you think of it
+The philosopher 2 is done talking.
+Philosopher 2 is hungry
+Philosopher 2 picks up left chopstick
+Philosopher 2 picks up right chopstick
+The philosopher 2 has started eating.
+The philosopher 2 is done eating.
+Philosopher 2 puts down right chopstick
+Philosopher 2 puts down left chopstick
+The philosopher 2 has started thinking.
+The philosopher 2 is done thinking.
+The philosopher 2 has started talking.
+Philosopher 2 says: You know, true is false and false is true if you think of it
+The philosopher 2 is done talking.
+All philosophers have left. System terminates normally.
+
